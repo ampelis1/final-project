@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+body nav {
+    margin-right: 40px;
+    margin-left: 53px;
+    -webkit-box-shadow: 0px 0px #679D83;
+    box-shadow: 0px 0px #679D83;
+    background-color: #919C92;
+}
+body p {
+    list-style-type: none;
+    list-style-position: inside;
+    list-style-image: none;
+    float: none;
+    text-decoration: none;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+body header {
+}
+ul li a {
+	display: block;
+	line-height: 48px;
+	text-decoration: none;
+	text-align: center;
+	border: 3px solid #13EE1C;
+	background-color: #07D10F;
+	width: 79%;
+}
+header h1 {
+    color: #07D10F;
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 63px;
+    text-decoration: none;
+    background-color: #7AB08D;
+}
+header h2 {
+    color: #011802;
+    background-color: #85AC93;
+}
+h3 strong {
+	color: #F4090D;
+}
+
+
+
+body nav ul {
+	list-style-type: none;
+}
+body nav ul {
+	height: 48px;
+
+}
+nav ul li {
+	float: left;
+	width: 192px;
+}
+h1 title {
+    color: #13EE1C;
+    text-align: center;
+    margin-left: 40px;
+}
+body header {
+}
+body {
+    background-color: #919C92;
+}
